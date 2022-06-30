@@ -67,6 +67,7 @@ function App() {
   )
 }
 
+// eslint-disable-next-line no-func-assign
 MessagesDisplay = React.forwardRef(MessagesDisplay)
 
 export default App
